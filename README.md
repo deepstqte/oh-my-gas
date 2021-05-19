@@ -1,0 +1,2 @@
+- In order for this app to run, you need an environment variable `ETHERSCAN_API_KEY` for the Etherscan API Key, you can sign up and get one [here](https://etherscan.io/apis).
+- This app is available at https://oh-my-gas.gzork.com
