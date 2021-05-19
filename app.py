@@ -18,7 +18,7 @@ import plotly.express as px
 import dash_table
 import os
 
-ETHERSCAN_API_KEY = os.environ["ETHERSCAN_API_KEY", "GETANETHERSCANAPIKEYFROM_https://etherscan.io/apis"]
+ETHERSCAN_API_KEY = os.environ["ETHERSCAN_API_KEY", "GETANETHERSCANAPIKEY"]
 DEFAULT_ADDRESS = "0xD710B4cbF1A4E510F6c6e9245c5Cb65c4eB3Dc02"
 
 app = dash.Dash(external_stylesheets=[dbc.themes.BOOTSTRAP])
